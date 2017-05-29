@@ -1,2 +1,3 @@
 Hello world, aprendiendo con Git-it :)
-añadir cambios a readme.txt
+
+otro cambio, borrando una linea.
